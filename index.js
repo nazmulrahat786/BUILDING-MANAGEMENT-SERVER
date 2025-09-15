@@ -7,7 +7,7 @@ const app = express()
 const stripe = require('stripe')(process.env.Stripe_Key)
 const port = process.env.PORT || 5000
 
-// console.log(process.env.ACCESS_TOKEN_SECRET)
+// console.log(process.env.ACCESS_TOKEN_SECRET) 
 //middleware 
 app.use(express.json())
 app.use(cors())
