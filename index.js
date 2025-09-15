@@ -30,7 +30,7 @@ const varifyToken = (req, res, next) => {
     next()
   });
 }
-
+ 
 //mongodb connection
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.oottvnu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
