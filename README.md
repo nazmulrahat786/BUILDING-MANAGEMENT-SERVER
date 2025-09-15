@@ -9,7 +9,7 @@ It powers the Homex web application by handling authentication, role-based acces
 - **Frontend (React):** [Homex Client Repo](https://github.com/nazmulrahat786/BUILDING-MANAGEMENT-CLIENT)
 
 ---
-
+ 
 ## 🚀 Features
 - 🔐 **JWT Authentication** (Login, Register, Secure APIs)  
 - 👥 **Role-based Access Control** (Admin, Member, User)  
