@@ -9,6 +9,9 @@ It powers the Homex web application by handling authentication, role-based acces
 - **Frontend (React):** [Homex Client Repo](https://github.com/nazmulrahat786/BUILDING-MANAGEMENT-CLIENT)
 
 ---
+## 🌐 Live URL
+👉 [Homex Live Server Link](https://building-management-system-server-a.vercel.app/)
+---
  
 ## 🚀 Features
 - 🔐 **JWT Authentication** (Login, Register, Secure APIs)  
