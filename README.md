@@ -38,5 +38,5 @@ It powers the Homex web application by handling authentication, role-based acces
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/nazmulrahat786/BUILDING-MANAGEMENT-SERVER.git
+https://github.com/nazmulrahat786/BUILDING-MANAGEMENT-SERVER.git
 cd BUILDING-MANAGEMENT-SERVER
